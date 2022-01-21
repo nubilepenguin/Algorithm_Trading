@@ -13,7 +13,7 @@ h5py==2.10.0
 humanize==0.5.1
 idna==2.8
 inflection==0.3.1
-ipython==7.10.2
+ipython==7.16.3
 ipython-genutils==0.2.0
 jedi==0.15.2
 joblib==0.14.1
